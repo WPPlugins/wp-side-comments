@@ -1,0 +1,76 @@
+# Copyright (C) 2013
+# This file is distributed under the same license as the package.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2014-06-25 22:39-0300\n"
+"PO-Revision-Date: 2014-06-25 22:41-0300\n"
+"Last-Translator: \n"
+"Language-Team: Strategio <strategio@strategio.fr>\n"
+"Language: Français\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\wordpress.dev\\wp-content\\plugins\\wp-"
+"side-comments\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: C:\\wamp\\www\\wordpress.dev\\wp-content\\plugins\\wp-"
+"side-comments\\public\\assets\\vendor\\side-comments\\release\n"
+
+#: admin/class-wp-side-comments-admin.php:132
+msgid "WP Side Comments"
+msgstr ""
+
+#: admin/class-wp-side-comments-admin.php:133
+msgid "WPSC"
+msgstr ""
+
+#: admin/class-wp-side-comments-admin.php:170
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/views/admin.php:24
+msgid "Content Selector"
+msgstr "Sélecteur de contenu"
+
+#: admin/views/admin.php:27
+msgid "class or id to target content area"
+msgstr "class ou id cible pour la zone de contenu"
+
+#: admin/views/admin.php:31
+msgid "Comment Selector"
+msgstr "Sélecteur de commentaires"
+
+#: admin/views/admin.php:34
+msgid "class or id to target comment area"
+msgstr "class ou id cible pour la zone de commentaires"
+
+#: admin/views/admin.php:43
+msgid "Save settings"
+msgstr "Enregistrer les changements"
+
+#: public/class-wp-side-comments.php:295
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: public/class-wp-side-comments.php:296
+msgid "Post"
+msgstr "Envoyer"
+
+#: public/class-wp-side-comments.php:297
+msgid "Cancel"
+msgstr "Annuler"
+
+#: public/class-wp-side-comments.php:298
+msgid "Login or Sign in to comment"
+msgstr "Connectez-vous ou Inscrivez-vous pour commenter"
+
+#: public/class-wp-side-comments.php:299
+msgid "Comments are not allowed"
+msgstr "Les commentaires sont fermés"
